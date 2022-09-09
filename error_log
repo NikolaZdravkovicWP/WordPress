@@ -1,0 +1,1 @@
+[26-Aug-2022 18:12:22 UTC] PHP Warning:  Undefined array key "QUERY_STRING" in /home/nzdravkovic/public_html/digitel/wp-content/plugins/woolentor-addons/woolentor-blocks/includes/classes/Blocks_init.php on line 145
