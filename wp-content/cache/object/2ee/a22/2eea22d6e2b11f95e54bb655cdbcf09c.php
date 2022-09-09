@@ -1,0 +1,17 @@
+ιλc<?php exit; ?>a:1:{s:7:"content";a:13:{s:5:"_form";a:1:{i:0;s:156:"[text* text-name placeholder "Your Name"]
+[email* email-774 placeholder "Your Email"]
+[textarea* textarea-576 placeholder "Your Message"]
+
+[submit "Submit"]";}s:5:"_mail";a:1:{i:0;s:459:"a:9:{s:6:"active";b:1;s:7:"subject";s:13:"[_site_title]";s:6:"sender";s:54:"[_site_title] <wordpress@nzdravkovic.wppsbootcamp.com>";s:9:"recipient";s:17:"ozzypas@gmail.com";s:4:"body";s:140:"From: [text-name] <[email-774]>
+
+
+
+Message Body:
+[textarea-576]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:21:"Reply-To: [email-774]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}";}s:7:"_mail_2";a:1:{i:0;s:444:"a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:54:"[_site_title] <wordpress@nzdravkovic.wppsbootcamp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}";}s:9:"_messages";a:1:{i:0;s:1571:"a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}";}s:20:"_additional_settings";a:1:{i:0;s:0:"";}s:7:"_locale";a:1:{i:0;s:5:"en_US";}s:21:"uacf7_redirect_enable";a:1:{i:0;s:0:"";}s:37:"uacf7_redirect_uacf7_redirect_to_type";a:1:{i:0;s:7:"to_page";}s:22:"uacf7_redirect_page_id";a:1:{i:0;s:1:"0";}s:27:"uacf7_redirect_external_url";a:1:{i:0;s:0:"";}s:21:"uacf7_redirect_target";a:1:{i:0;s:0:"";}s:16:"uacf7_conditions";a:1:{i:0;N;}s:14:"uacf7_cf_count";a:1:{i:0;s:1:"0";}}}
