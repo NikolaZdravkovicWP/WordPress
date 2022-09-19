@@ -1,0 +1,22 @@
+2022-09-18T12:41:49+00:00 CRITICAL Uncaught Error: Attempt to assign property "api_url" on null in /home/nzdravkovic/public_html/projekat/wp-content/plugins/shortpixel-adaptive-images/includes/actions/page.actions.class.php:52
+Stack trace:
+#0 [internal function]: ShortPixel\AI\Page\Actions::handleSettings(Array)
+#1 /home/nzdravkovic/public_html/projekat/wp-content/plugins/shortpixel-adaptive-images/includes/actions/page.actions.class.php(31): call_user_func(Array, Array)
+#2 /home/nzdravkovic/public_html/projekat/wp-includes/class-wp-hook.php(307): ShortPixel\AI\Page\Actions::handle('')
+#3 /home/nzdravkovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/nzdravkovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/nzdravkovic/public_html/projekat/wp-admin/admin-ajax.php(187): do_action('wp_ajax_shortpi...')
+#6 {main}
+  thrown in /home/nzdravkovic/public_html/projekat/wp-content/plugins/shortpixel-adaptive-images/includes/actions/page.actions.class.php on line 52
+
+2022-09-18T12:47:54+00:00 CRITICAL Uncaught Error: Attempt to assign property "api_url" on null in /home/nzdravkovic/public_html/projekat/wp-content/plugins/shortpixel-adaptive-images/includes/actions/page.actions.class.php:52
+Stack trace:
+#0 [internal function]: ShortPixel\AI\Page\Actions::handleSettings(Array)
+#1 /home/nzdravkovic/public_html/projekat/wp-content/plugins/shortpixel-adaptive-images/includes/actions/page.actions.class.php(31): call_user_func(Array, Array)
+#2 /home/nzdravkovic/public_html/projekat/wp-includes/class-wp-hook.php(307): ShortPixel\AI\Page\Actions::handle('')
+#3 /home/nzdravkovic/public_html/projekat/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 /home/nzdravkovic/public_html/projekat/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#5 /home/nzdravkovic/public_html/projekat/wp-admin/admin-ajax.php(187): do_action('wp_ajax_shortpi...')
+#6 {main}
+  thrown in /home/nzdravkovic/public_html/projekat/wp-content/plugins/shortpixel-adaptive-images/includes/actions/page.actions.class.php on line 52
+

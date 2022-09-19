@@ -1,0 +1,13 @@
+
+18-09-2022 11:59:17 [nzdravkovic.wppsbootcamp.com][info] Parent plugin start installation!
+18-09-2022 11:59:17 [nzdravkovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+18-09-2022 11:59:17 [nzdravkovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+18-09-2022 11:59:48 [nzdravkovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/nzdravkovic/public_html/projekat/wp-content/uploads/wio_backup)
+-------------------------------
+18-09-2022 12:04:45 [nzdravkovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+18-09-2022 12:04:45 [nzdravkovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
